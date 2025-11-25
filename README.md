@@ -20,18 +20,6 @@ The project files are organized as follows:
 
 ---
 
-## 🛠️ Requirements and Setup
-
-This project requires standard Python data science libraries: **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.
-
-1.  **Install Dependencies:**
-    It is highly recommended to use a virtual environment. To install all necessary packages listed in the `requirements.txt` file, run the following command:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
----
-
 ## 📊 Key Findings and Results
 The analysis successfully calculated several key metrics and identified the top performers based on the annual sales data:
 
